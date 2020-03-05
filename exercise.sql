@@ -1,6 +1,6 @@
-UPDATE planeten
-SET
-	massa = 639E23
-WHERE
-	naam = "Mars";
+INSERT INTO planeten (naam)VALUES("Zon"),
+								("Mercurius"),
+								("Venus"),
+                                ("Aarde"),
+                                ("Mars");
 
