@@ -1,4 +1,8 @@
-CREATE TABLE planeten (naam VARCHAR (10));
+select * from planeten;
+
+
+
+
 
 
  
